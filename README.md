@@ -63,11 +63,6 @@ This project was built to practice Python fundamentals on a realistic healthcare
 
 ---
 
-## 🚀 How to run
 
-1. Clone or download this repository:
 
-```bash
-git clone https://github.com/rayoomali99/Lab-Front-Desk-System.git
-cd Lab-Front-Desk-System
 
